@@ -1,0 +1,135 @@
+{
+    "info": {
+        "page": 1,
+        "results": 12,
+        "seed": "5be51bfabe09eec0",
+        "version": "1.2"
+    },
+    "results": [
+        {
+            "cell": "0720-049-779",
+            "dob": {
+                "age": 64,
+                "date": "1954-05-25T15:31:56Z"
+            },
+            "email": "dsedore@grcc.edu",
+            "company": "Grand Rapids Community College",
+            "gender": "female",
+            "message": "Would like a quote for the OKI931DP+4 color envelope system with feeder and exit table.\nAny trade in specials\nRip options and pricing\nInstallation costs\nIf you have service and support, what is that cost\nIf you sell supplies, what is that cost",
+            "id": {
+                "name": "NINO",
+                "value": "EA 14 74 82 Y"
+            },
+            "location": {
+                "city": "canterbury",
+                "coordinates": {
+                    "latitude": "65.6696",
+                    "longitude": "12.3399"
+                },
+                "postcode": "J10 3XR",
+                "state": "county antrim",
+                "street": "294 west street",
+                "timezone": {
+                    "description": "Almaty, Dhaka, Colombo",
+                    "offset": "+6:00"
+                }
+            },
+            "login": {
+                "md5": "06f7123b0b101f7d981bb47a1aaef398",
+                "password": "catfish",
+                "salt": "YZoCXAA6",
+                "sha1": "3df2ffe6da831ab23ee0e7235bfdbc8e28ca059d",
+                "sha256": "8f8d9ed0f0d1d93303d8c30183bd7e230efcb1c762cba07263d24d3a870dbe43",
+                "username": "heavyleopard411",
+                "uuid": "630c0f22-4dd3-47c6-ae37-852ca0d3d9f9"
+            },
+            
+               "name": {
+                "first": "Danelle",
+                "last": "Sedore",
+                "title": "miss"
+            },
+            "nat": "GB",
+            "phone": "6162343964",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+            },
+            "registered": {
+                "age": 4,
+                "date": "2015-02-21T16:21:06Z"
+            }
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+ 
+        {
+            "cell": "0765-720-061",
+            "dob": {
+                "age": 74,
+                "date": "1945-02-01T01:07:42Z"
+            },
+            "email": "isabelle.morris@example.com",
+            "gender": "female",
+            "id": {
+                "name": "NINO",
+                "value": "ZW 47 77 79 K"
+            },
+            "location": {
+                "city": "westminster",
+                "coordinates": {
+                    "latitude": "-77.7074",
+                    "longitude": "114.2534"
+                },
+                "postcode": "T1 2HS",
+                "state": "herefordshire",
+                "street": "7314 green lane",
+                "timezone": {
+                    "description": "Mountain Time (US & Canada)",
+                    "offset": "-7:00"
+                }
+            },
+            "login": {
+                "md5": "9f46bc2bfb89e1d6d1d2e04d513eed05",
+                "password": "767676",
+                "salt": "IVsDxwxH",
+                "sha1": "c4108b4e0c25e9ef7ce545e2754a16cfef35fe79",
+                "sha256": "fa0d14be8e20fe0e7febb019b3aec58e07f960dc2dd144da96f3fab1fae78284",
+                "username": "redduck990",
+                "uuid": "7457b924-9dcd-4565-be97-e7666fd0229e"
+            },
+            "name": {
+                "first": "isabelle",
+                "last": "morris",
+                "title": "mrs"
+            },
+            "nat": "GB",
+            "phone": "019467 86662",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/51.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+            },
+            "registered": {
+                "age": 9,
+                "date": "2010-01-23T11:22:28Z"
+            }
+        }
+    ]
+}
