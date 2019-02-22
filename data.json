@@ -78,58 +78,7 @@
         
         
         
-        {
-            "cell": "0735-797-178",
-            "dob": {
-                "age": 44,
-                "date": "1974-10-26T01:22:47Z"
-            },
-            "email": "timothy.reed@example.com",
-            "gender": "male",
-            "id": {
-                "name": "NINO",
-                "value": "HN 87 83 43 L"
-            },
-            "location": {
-                "city": "liverpool",
-                "coordinates": {
-                    "latitude": "32.3269",
-                    "longitude": "-160.1688"
-                },
-                "postcode": "XA8 7HD",
-                "state": "leicestershire",
-                "street": "1211 st. john’s road",
-                "timezone": {
-                    "description": "Midway Island, Samoa",
-                    "offset": "-11:00"
-                }
-            },
-            "login": {
-                "md5": "e30fa438f6686ac491f234457eb2b135",
-                "password": "fergus",
-                "salt": "6AJQpYAo",
-                "sha1": "719cb9f5ad090eb16bc296efaae43e98f28ca0ed",
-                "sha256": "4829450a6fd35ddf9b4d9c84c054f70895908544bff2e04176bbbaa52196bbd4",
-                "username": "ticklishswan473",
-                "uuid": "396140f3-2ab9-4347-923c-a299c292c720"
-            },
-            "name": {
-                "first": "timothy",
-                "last": "reed",
-                "title": "mr"
-            },
-            "nat": "GB",
-            "phone": "016974 00364",
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/47.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
-            },
-            "registered": {
-                "age": 13,
-                "date": "2005-06-18T01:57:56Z"
-            }
-        },
+
         {
             "cell": "0783-544-621",
             "dob": {
