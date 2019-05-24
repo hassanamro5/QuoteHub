@@ -6,8 +6,9 @@ dev.js
 send.js
 
 # Ignore folder named `node_modules`
+**/src/
 node_modules/
-src/
+
 
 # dependencies
 /.pnp
