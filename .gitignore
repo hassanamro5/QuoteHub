@@ -3,6 +3,7 @@
 # Ignore file named `example.js`
 example.js
 dev.js
+send.js
 
 # Ignore folder named `node_modules`
 node_modules/
