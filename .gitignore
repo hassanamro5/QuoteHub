@@ -5,8 +5,11 @@ example.js
 dev.js
 send.js
 
+
+# Ignore folder named `src`
+src/
+
 # Ignore folder named `node_modules`
-**/src/
 node_modules/
 
 
