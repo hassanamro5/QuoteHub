@@ -3,10 +3,10 @@
 # Ignore file named `example.js`
 example.js
 dev.js
-src/config/
+
 # Ignore folder named `node_modules`
 node_modules/
-
+src/config/
 # dependencies
 /.pnp
 .pnp.js
