@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# QuoteHub
+A BigCommerce app that allows users to request quotes and interact with customers in a measured manner.
+
+Based off of Bootstrap. 
+>>>>>>> 3ae589e1bcd5c8cdc93d39ede3a0274c3e7390ff
