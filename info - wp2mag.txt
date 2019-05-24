@@ -1,0 +1,2 @@
+What does the console.log value come out as?
+- Value, Object?
