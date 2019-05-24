@@ -3,7 +3,7 @@
 # Ignore file named `example.js`
 example.js
 dev.js
-
+/src/config/dev.js
 # Ignore folder named `node_modules`
 node_modules/
 
