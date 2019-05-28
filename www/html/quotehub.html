@@ -1,0 +1,88 @@
+<html>
+
+
+<head>
+
+    <!-- make it so that the product is viewed natively from submit using a handlebars resource. 
+    input: product submitted, on BigCommerce - {{product.title}} - on the QuoteHub dashboard.  -->
+
+
+    <title>Server Side</title>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    
+
+
+</head>
+
+
+
+<body>
+
+
+ <br>
+
+ <h3>Quotes List</h3>
+ <div id="home">
+
+<table id="tbl_users_list" border="1">
+  <tr>
+   <td>Phone #</td>
+   <td>Name</td>
+   <td>Email Address</td>
+   <td>Product Requested</td>
+   <td>Company</td>
+   <td>Message</td>
+  </tr>
+ </table>
+
+ <div class="modal">
+     <p class="product-name-title">Product Requested:</p>
+     <br>
+     <br>
+     <h3 class="modal-title">Message</h3>
+     <br>
+     <br>
+
+     <!-- include kwgraphics.com inhernetly on it so if you click it, it pops up the product in a different tab.  -->
+     <p class="product-name"></p>
+        <!-- include kwgraphics.com inhernetly on it so if you click it, it pops up the product in a different tab.  -->
+    <br>
+
+
+
+
+
+
+     <p class="message-title">Message:</p>
+     <br>
+     
+     <p class="message"></p>
+     
+
+
+
+
+
+ </div>
+
+</div>    
+
+
+
+      <script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+      <script src="../js/app.js"></script>
+
+
+</body>
+
+</html>
+
+
+
+
+

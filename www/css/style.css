@@ -1,0 +1,66 @@
+/* body {
+
+    background-image: url("quotes-list background.jpg");
+    opacity:0.1;
+
+} */
+
+
+
+.background{
+
+    opacity: 1;
+
+
+}
+
+td {
+
+  margin: 10px;
+  padding: 10px;
+}
+
+
+
+#tbl_users_list{
+
+
+    padding: 30px;
+    margin: 30px;
+    line-height: 30px;
+    font-weight: 500;
+    z-index: 99999999;
+
+
+
+}
+
+
+body {
+    background-color: #cccccc;
+    background-image: radial-gradient( #eff7fa , #edf5f8);
+  }
+
+
+
+
+
+  #tbl_users_list {
+    background-color: #ffffff;
+    background-image: radial-gradient( #ffffff , #ffffff);
+  }
+
+
+
+
+
+
+
+
+
+
+
+  
+/* gradient values:
+light blue #edf5f8 
+pocket blue: #eff7fa */
