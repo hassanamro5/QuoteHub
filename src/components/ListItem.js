@@ -15,12 +15,12 @@ class ListItem extends Component {
       
         <h4>
           {todo.title} <br></br> {todo.company}
-          {/* <span 
+          <span 
             onClick={() => this.completeClick(todoId)}
             className="complete-todo-item waves-effect waves-light blue lighten-5 blue-text text-darken-4 btn"
           >
             <i className="large material-icons">Done</i>
-          </span> */}
+          </span>
         </h4>
         <p>{todo.message}</p>
 
