@@ -1,2 +1,2 @@
 export const FETCH_TODOS = "FETCH_TODOS"
-export const VIEW_QUERY = "VIEW_QUERY"
+export const VIEWED_QUERY = "VIEW_QUERY"
