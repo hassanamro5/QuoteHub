@@ -11,6 +11,6 @@ A general use app that allows users to request quotes and interact with customer
 
 
 ## How does QuoteHub work? 
-Form submissions are sent from other website that goes into a firestore database, then the QuoteHub dashboard 
-displays the submissions. On the dashboard side it uses Redux and React to display an intuitive and interactive
-user interface. 
+Form submissions are sent from other website that goes into a firestore database, 
+then the QuoteHub dashboard displays the submissions. On the dashboard side it uses Redux and React
+to display an intuitive and interactive user interface. 
