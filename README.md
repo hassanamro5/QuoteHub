@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A general use app that allows users to request quotes and interact with customers in a measured manner.
 
-[View](https://quotehub-example-243022.appspot.com/)
+[View Version](https://quotehub-example-243022.appspot.com/)
 
 ### `features`
 
