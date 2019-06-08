@@ -16,3 +16,8 @@ A general use app that allows users to request quotes and interact with customer
 Form submissions are sent from other website that goes into a firestore database, 
 then the QuoteHub dashboard displays the submissions. On the dashboard side it uses Redux and React
 to display an intuitive and interactive user interface. 
+
+
+## Firebase View
+
+![alt text](https://raw.githubusercontent.com/dchavours/QuoteHub/master/backend-view.png)
