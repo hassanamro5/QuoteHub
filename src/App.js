@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 import List from './components/List';
-import Badge from './components/Badge';
+import BadgeButton from './components/BadgeButton';
 
 class App extends Component {
   render() {
     return (
       <div className="container">
-        <Badge />
+        <BadgeButton />
         <List/>
       </div>
     );

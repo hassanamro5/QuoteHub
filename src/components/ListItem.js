@@ -13,6 +13,7 @@ class ListItem extends Component {
     return (
       <div key="toDoName" className="col s10 offset-s1 to-do-list-item black">
       
+    {/* Item */}
         <h4>
           {todo.title} <br></br> {todo.company}
           <span 
@@ -23,6 +24,8 @@ class ListItem extends Component {
           </span>
         </h4>
         <p>{todo.message}</p>
+
+      {/* Item */}
 
 
       </div>
