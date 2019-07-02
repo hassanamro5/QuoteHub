@@ -1,6 +1,8 @@
-import {combineReducers} from 'redux';
+import { combineReducers } from 'redux';
 import data from './dataReducer';
+import modal from './modalReducer'
 
 export default combineReducers({
-  data
+  data,
+  modal
 });

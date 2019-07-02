@@ -1,5 +1,8 @@
 import {todosRef} from '../config/firebase';
-import {FETCH_TODOS} from './types';
+import {FETCH_TODOS, OPEN_MODAL, CLOSE_MODAL} from './types';
+
+
+
 
 export const addToDo = newToDo => async dispatch => {
   todosRef.push().set(newToDo);
@@ -27,3 +30,16 @@ export const fetchToDos = () => async dispatch => {
     });
   });
 };
+
+
+
+// Modal Actions:
+export const openModalAction = () => ({
+  type: OPEN_MODAL,
+  payload: true
+});
+
+export const closeModalAction = () => ({
+  type: CLOSE_MODAL,
+  payload: false
+});
