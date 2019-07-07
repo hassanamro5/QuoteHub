@@ -18,8 +18,18 @@ class App extends Component {
 					<Button
 						onClick={() => {
 							this.props.openModal({
+
 								modalType: ModalExample,
 								modalProps: {
+									exit: [
+										{
+											text: 'Text',
+											intent: 'success',
+											onClick: () => {
+											this.props.closeModal();
+											}
+										}
+									],
 									title: 'Title',
 									text: 'Text',
 									subTitle: 'Subtitle',

@@ -6,9 +6,19 @@ import './styles.css';
 
 class ModalExample extends Component {
 	render() {
-		const { title, text, subTitle, buttons } = this.props.modalProps;
+		const { title, text, subTitle, buttons, exit } = this.props.modalProps;
 		return (
 			<div className="ModalExample">
+				{exit && (
+
+					<div className="ModalExample__exit">
+					{exit.map((exitProps, i) => {
+						return <Button {...exitProps} key={`ModalButton${i}`} />;
+					})}
+					</div>
+
+				)}
+
 				{(title || subTitle) && (
 					<div className="ModalExample__header">
 						{title && (
