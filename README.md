@@ -6,7 +6,8 @@
 
 #toDo
 - Add a conditonal render on the modal window. Logic being, load only nodes that read a value of 'false'. 
-: Doing this through looping through the Redux store. 
+
+Doing this through looping through the Redux store. 
 
 
 
