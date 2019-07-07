@@ -1,4 +1,4 @@
-Redux-Modal' branch.
+'Redux-Modal' branch.
 
 # Contains. 
 - A modal that fires a SHOW_MODAL and HIDE_MODAL type. 
