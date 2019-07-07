@@ -1,0 +1,27 @@
+.ModalExample__text {
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 1.47;
+	color: #2f2f36;
+}
+.ModalExample__header {
+	margin-bottom: 50px;
+}
+.ModalExample__header:last-child {
+	margin-bottom: 0;
+}
+.ModalExample__body {
+	margin-bottom: 30px;
+}
+.ModalExample__body:last-child {
+	margin-bottom: 0;
+}
+.ModalExample__buttons .Button {
+	margin-right: 20px;
+	margin-bottom: 20px;
+	vertical-align: top;
+}
+.ModalExample__buttons .Button:last-child {
+	margin-right: 0;
+	margin-bottom: 0;
+}
